@@ -1,0 +1,73 @@
+.header-center {
+    text-align: center;
+    color: white;
+  }
+  
+  .header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+  }
+  
+  .description-center {
+    text-align: center;
+    color: white;
+  }
+  
+  .form-group {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+  }
+  
+  form {
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.75rem;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .body {
+    background-image: linear-gradient(
+        115deg,
+        rgba(58, 58, 158, 0.8),
+        rgba(136, 136, 206, 0.7)
+      ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  }
+  
+  .input {
+    display: block;
+    width: 100%;
+    padding: 2px;
+    margin-top: 4px;
+  }
+  
+  .label {
+    display: block;
+    color: white;
+    width: 100%;
+    margin-bottom: 4px;
+  }
+  
+  .select {
+    display:block;
+    width: 100%;
+    margin-top: 4px;
+  }
+  
+  .option {
+    display:block;
+  }
+  
+  .textarea {
+    display: block;
+    min-height: 120px;
+    width: 100%;
+    padding: 0.625rem;
+    resize: vertical;
+    margin-top: 4px;
+  }
+  
+  .submit {
+    width: 100%;
+    background-color: green;
+    color: white;
+    height: 40px;
+  }
